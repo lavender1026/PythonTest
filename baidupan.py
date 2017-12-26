@@ -119,3 +119,9 @@ bdy_trans = BaiduYunTransfer(bduss,stoken,bdstoken)
 url_src = "https://pan.baidu.com/s/1jImSOXg"
 path = u"/电影"
 bdy_trans.transfer_url(url_src,path)
+print('hello my firends')
+
+
+
+
+
